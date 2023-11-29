@@ -1,9 +1,0 @@
-https://docs.edgeimpulse.com/docs/development-platforms/using-your-mobile-phone
-
-https://docs.edgeimpulse.com/docs/deployment/webassembly/through-webassembly
-
-https://docs.edgeimpulse.com/docs/deployment/webassembly/through-webassembly-browser
-
-https://www.edgeimpulse.com/blog/introducing-eon
-
-https://docs.edgeimpulse.com/docs/tutorials/continuous-motion-recognition

@@ -1,9 +1,0 @@
-Video showing how speakers work: https://www.youtube.com/watch?v=048tBZMt3eY
-
-Video that covers the common audio sample rates: https://www.youtube.com/watch?v=fZzMXdxbOes
-
-Digital Audio Basics: Sample Rate and Bit Depth
-
-Data Augmentation | How to use Deep Learning when you have Limited Data — Part 2
-
-Make the most of limited datasets using audio data augmentation
