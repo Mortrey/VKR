@@ -1,0 +1,11 @@
+https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
+
+https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
+
+https://stats.stackexchange.com/questions/91044/how-to-calculate-precision-and-recall-in-a-3-x-3-confusion-matrix
+
+https://www.youtube.com/watch?v=0h8lAm5Ki5g
+
+https://www.youtube.com/watch?v=0h8lAm5Ki5g
+
+https://www.youtube.com/watch?v=EQWr3GGCdzw

@@ -1,0 +1,104 @@
+\ref{fig:figure_label}
+\begin{figure}[h] % h t b p ! 
+  \centering
+  % \includegraphics[width=0.5\textwidth, angle=90, trim=10mm 20mm 30mm 40mm, clip=true, keepaspectratio]
+  \includegraphics[width=0.4\textwidth]{image_file_name}
+  \caption{Figure caption}
+  \label{fig:figure_label}
+\end{figure}
+-------------------------------
+\ref{eq:example}
+\begin{equation}
+    \begin{gathered}
+        x + y = 10 \\
+        \text{}
+    \end{gathered}
+    \label{eq:example}
+\end{equation}
+-------------------------------
+\ref{fig:subfigure-example}
+
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}[b]{0.4\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{image1.jpg}
+        \caption{Первая картинка в первом ряду}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.4\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{image2.jpg}
+        \caption{Вторая картинка в первом ряду}
+    \end{subfigure}
+    \\
+    \begin{subfigure}[b]{0.4\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{image3.jpg}
+        \caption{Первая картинка во втором ряду}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.4\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{image4.jpg}
+        \caption{Вторая картинка во втором ряду}
+    \end{subfigure}
+    \caption{Четыре картинки в два ряда по две}
+    \label{fig:subfigure-example}
+\end{figure}
+
+----------------------------------------------
+\ref{fig:subfigure-example}
+\begin{figure}[h]
+    \centering
+    \begin{subfigure}[b]{0.3\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{image1.jpg}
+        \caption{Первая картинка}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.3\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{image2.jpg}
+        \caption{Вторая картинка}
+    \end{subfigure}
+    \begin{subfigure}[b]{0.3\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{image3.jpg}
+        \caption{Третья картинка}
+    \end{subfigure}
+    \caption{Несколько картинок в ряд}
+    \label{fig:subfigure-example}
+\end{figure}
+
+-------------------------------------------------
+
+\begin{enumerate}
+    \item 
+    \item 
+    \item 
+\end{enumerate}
+
+----------------------------------------------
+\ref{tab:Название_таблицы}
+\begin{table}[h!]
+\centering
+% [положение]{спецификация столбцов}: [с или t или b]{l c r }
+\begin{tabular}[c]{|p{2cm}|p{2cm}|p{2cm}|}
+\hline
+\rowcolor{gray!50}
+\multicolumn{3}{|c|}{Заголовок таблицы} \\
+\hline
+Ячейка 1-1 & Ячейка 1-2 & Ячейка 1-3 \\
+\hline
+Ячейка 2-1 & Ячейка 2-2 & Ячейка 2-3 \\
+\hline
+\end{tabular}
+\caption{Название таблицы}
+\label{tab:Название_таблицы}
+\end{table}
+
+--------------------------------------------
+\begin{itemize}
+    \item 
+    \item 
+    \item 
+\end{itemize}
+

@@ -1,0 +1,22 @@
+MFCCs and CNNs
+While optional, we encourage you to take a look at the following articles to learn more about the topics covered in this lesson:
+
+Video that explains the Fourier Transform: https://www.youtube.com/watch?v=spUNpyF58BY
+
+The Nyquist–Shannon Theorem: Understanding Sampled Systems
+
+Sampling Theorem and Frequency Spectrum Aliasing
+
+Mel Frequency Cepstral Coefficient (MFCC) tutorial
+
+Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What's In-Between
+
+A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way
+
+Convolutional Neural Networks (CNN): Step 1(b) - ReLU Layer
+
+1D Convolutional Neural Networks and Applications – A Survey
+
+A Gentle Introduction to Dropout for Regularizing Deep Neural Networks
+
+How to Configure the Learning Rate When Training Deep Learning Neural Networks

@@ -1,0 +1,2 @@
+https://scikit-learn.ru/2-7-novelty-and-outlier-detection/
+

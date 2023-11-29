@@ -1,0 +1,1 @@
+просьба установить pdflatex перед созвоном (TeX Live and MikTeX для Windows, MacTeX для mac os, texlive linux)

@@ -1,0 +1,5 @@
+https://towardsdatascience.com/anomaly-detection-for-dummies-15f148e559c1
+
+https://medium.com/swlh/introduction-to-anomaly-detection-in-time-series-data-and-k-means-clustering-5832fb33d8cb
+
+https://stanford.edu/~cpiech/cs221/handouts/kmeans.html

@@ -1,0 +1,9 @@
+https://medium.com/@mehulved1503/feature-selection-and-feature-extraction-in-machine-learning-an-overview-57891c595e96
+
+https://quantdare.com/what-is-the-difference-between-feature-extraction-and-feature-selection/
+
+https://www.youtube.com/watch?v=TDgTYsgz4UI
+
+https://www.youtube.com/watch?v=spUNpyF58BY
+
+https://blog.endaq.com/why-the-power-spectral-density-psd-is-the-gold-standard-of-vibration-analysis
